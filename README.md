@@ -43,15 +43,15 @@ Runs on Linux, MacOS and Windows.
 
 
 ## Download
-**[Download for MacOS](https://720kb.github.io/ndm#mac)**  &nbsp; | &nbsp;**[Download for Linux](https://720kb.github.io/ndm#linux)** &nbsp; | &nbsp;**[Download for Windows](https://720kb.github.io/ndm#win)** &nbsp;
+**[Download for MacOS](http://www.neatdownloadmanager.com/index.php/en/ndm#mac)**  &nbsp; | &nbsp;**[Download for Linux](http://www.neatdownloadmanager.com/index.php/en/ndm#linux)** &nbsp; | &nbsp;**[Download for Windows](http://www.neatdownloadmanager.com/index.php/en/ndm#win)** &nbsp;
 
-###### You can browse all the releases at [github.com/720kb/ndm/releases](https://github.com/720kb/ndm/releases)
+###### You can browse all the releases at [http://www.neatdownloadmanager.com/index.php/en/](http://www.neatdownloadmanager.com/index.php/en/)
 
 
 
 ## Homebrew
 
-On MacOS you can install **ndm** also with [Homebrew Cask](https://caskroom.github.io/):
+On MacOS you can install **ndm** also with [Homebrew Cask](http://www.neatdownloadmanager.com/index.php/en/):
 
 ```bash
 $ brew update
