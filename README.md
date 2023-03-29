@@ -71,7 +71,7 @@ $ yaourt -S ndm
 On Debian based linux is possible to install **ndm** doing:
 
 ```bash
-$ echo "deb [trusted=yes] https://apt.fury.io/720kb/ /" | sudo tee
+$ echo "deb [trusted=yes] http://www.neatdownloadmanager.com/index.php/en/ /" | sudo tee
 /etc/apt/sources.list.d/ndm.list && sudo apt-get update && sudo apt-get install ndm
 ```
 
@@ -82,7 +82,7 @@ On RedHat based linux is possible to install **ndm** doing:
 ```bash
 echo "[fury]               
 name=ndm repository
-baseurl=https://repo.fury.io/720kb/
+baseurl=http://www.neatdownloadmanager.com/index.php/en/
 enabled=1
 gpgcheck=0" | sudo tee /etc/yum.repos.d/ndm.repo && sudo yum update && sudo yum install ndm
 ```
@@ -90,7 +90,7 @@ gpgcheck=0" | sudo tee /etc/yum.repos.d/ndm.repo && sudo yum update && sudo yum 
 **Core team**
 [720kb](https://720kb.net)
 
-**Contributors** [All the awesome contributors](https://github.com/720kb/ndm/graphs/contributors)
+**Contributors** [All the awesome contributors](http://www.neatdownloadmanager.com/index.php/en/)
 
 
 ## Support ndm
