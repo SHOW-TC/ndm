@@ -27,7 +27,7 @@ Runs on Linux, MacOS and Windows.
  <br>
 
 <p>
-<b><a href="https://github.com/720kb/ndm/blob/master/doc/ABOUT.md">About ndm</a></b> &nbsp;
+<b><a href="http://www.neatdownloadmanager.com/index.php/en/">About ndm</a></b> &nbsp;
   |
   &nbsp; <b><a href="https://github.com/720kb/ndm/blob/master/doc/DEVELOP.md">Develop it</a></b>&nbsp;  |
   &nbsp; <b><a href="https://github.com/720kb/ndm/blob/master/doc/BUILD.md">Build it</a></b>&nbsp;
